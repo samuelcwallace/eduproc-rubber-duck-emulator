@@ -10,6 +10,8 @@ This will attempt a line-by-line translation from either a plain-English based p
 
 This software is currently being deployed on Michigan Technological University's WebTA system. I am currently not actively developing it.
 
+The perl file was written as the prototype/first version. It only translates to Java. The program was rewritten in Java in order to integrate better with WebTA. Both versions work, but the Java version has many more capabilities.
+
 For any questions on this software, contact swallace@mtu.edu or samcw@umich.edu.
 
 This can be modified and used for individual, non commercial use. If you would like to use this software for institutional use, or distribute a modification please contact ureel@mtu.edu.
